@@ -1,39 +1,63 @@
-  ### Hi I'm Shreeman Arjun👋
+ 
+ ### Hi I'm Shreeman Arjun👋
+ - 🔭 I’m currently working as Freelancer
+- 🌱 I’m currently learning Flutter 
+- 💬 Ask me about Life & Technology
+ 
+ ## ✍️ Languages,Frameworks ❤️
+ <p float="right">
+  
+ <a href="">
+  <img align="center" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img align="center" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img align="center" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=whitehttps://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+    <img align="center" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
+  
+</a>
+  
+</p>
+ 
+ 
+## Status 
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<p float="left">
+<a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=shreemanarjun&show_icons=true&theme=radical" />
 </a>
-
-
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreemanarjun&langs_count=8&hide=javascript,html,css,c,swift,php,cmake,objective-c)" />
+  
+<a href="">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreemanarjun&langs_count=8&hide=javascript,html,css,c,swift,php,cmake,Objective-C)" />
 </a>
+</p>
+
+
+## Repos
+
+<p float="left">
+<a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shreemanarjun&repo=fooduuser" />
+</a>
+  
+
+</p>
 
 
 
+## Contact Me
 
-
-<a href="https://www.linkedin.com/in/shreemanarjun/">
+<p float="left">
+ <a href="https://www.linkedin.com/in/shreemanarjun/">
   <img align="bottom" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://twitter.com/shreemanarjun/">
+  <a href="https://twitter.com/shreemanarjun/">
   <img align="bottom" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
+</p>
 
-## Languages
 
-<!--
-**Shreemanarjun/Shreemanarjun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
