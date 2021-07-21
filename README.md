@@ -36,11 +36,11 @@
 ## Repos
 
 <p float="left">
-<a href="">
+<a href="https://github.com/Shreemanarjun/fooduuser">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shreemanarjun&repo=fooduuser" />
 </a>
  
-  <a href="">
+  <a href="https://github.com/Shreemanarjun/whatsapp_clone">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shreemanarjun&repo=whatsapp_clone" />
 </a>
 
