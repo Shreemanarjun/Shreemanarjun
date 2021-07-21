@@ -40,7 +40,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shreemanarjun&repo=fooduuser" />
 </a>
  
-  <a href="https://github.com/Shreemanarjun/whatsapp_clone">
+<a href="https://github.com/Shreemanarjun/whatsapp_clone">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shreemanarjun&repo=whatsapp_clone" />
 </a>
 
