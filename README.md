@@ -28,7 +28,7 @@
 </a>
   
 <a href="">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreemanarjun&langs_count=8&hide=javascript,html,css,C,C++,swift,php,cmake,Objective-C)" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreemanarjun&langs_count=8&hide=C++,makefile,javascript,html,css,C,C++,swift,php,cmake,Objective-C)" />
 </a>
 </p>
 
