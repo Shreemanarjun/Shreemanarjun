@@ -30,17 +30,14 @@
 <a href="">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreemanarjun&langs_count=8&hide=C++,makefile,javascript,html,css,C,c%2B%2B,swift,php,cmake,Objective-C)" />
 </a>
- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+
 
 </p>
-
 
 ## Repos
 
 <p float="left">
-<a href="https://github.com/Shreemanarjun/fooduuser">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shreemanarjun&repo=fooduuser" />
-</a>
+
  
 <a href="https://github.com/Shreemanarjun/whatsapp_clone">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shreemanarjun&repo=whatsapp_clone" />
