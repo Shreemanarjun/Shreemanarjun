@@ -17,7 +17,43 @@
 </a>
   
 </p>
- 
+
+
+## Skills
+
+- 💻 Flutter (Dart, Riverpod, Getx, Dio, Serverpod, VelocityX)
+- ⌨️ Kotlin (Ktor Server,Spring Boot)
+- 🗃️ SQL
+
+## Projects
+
+### 🎯 Ensemble (LucidPlus IT Solutions)
+
+- Technologies used: Flutter, Riverpod, VelocityX, Dio, MVC
+- Description: Developed a stock management app with purchase and warranty modules, QR code generator for stocks, inward entries, audit, and reports modules. Automated purchase and warranty tracking, added QR code generator for quick stock identification, improved stock receipt management, and provided insights into stock performance. Enhanced overall stock management efficiency.
+
+### 🔒 AuthO (LucidPlus IT Solutions)
+
+- Technologies used: Flutter, Riverpod, VelocityX, Dio, MVC
+- Description: Developed a secure authentication app with TOTP (Time-based One-Time Password) and QR scanner features, similar to Google Authenticator. Improved the security of user accounts by generating unique one-time passwords that expire after a short period of time. Implemented a QR scanner for quick and easy setup. Enhanced overall user experience and provided secure authentication for web and mobile applications.
+
+### 🛒 Symphony (LucidPlus IT Solutions)
+
+- Technologies used: Flutter, Riverpod, VelocityX, Dio, MVC
+- Description: Full-fledged ecommerce application with warehouse, delivery, sales, admin, and customer modules. Manages inventory, tracks low stock, and generates purchase orders. Handles delivery of products to customers. Streamlines sales, supports multiple payment methods, and provides a user-friendly interface for customers.
+
+### 📈 Lead Flow (LucidPlus IT Solutions)
+
+- Technologies used: Flutter, Riverpod, VelocityX, Dio, MVC
+- Description: Loan processing application enabling dynamic submission of personal info and documents, including geotagged images and scanned documents, for loan applications. User-friendly platform for borrowers to apply and lenders to process quickly. Streamlined loan application module with personal info, document uploads, and submission, as well as geotagging image and document scanning modules.
+
+### 💳 Aeon Wallet (LucidPlus IT Solutions)
+
+- Technologies used: Flutter, Getx, Dio, MVC
+- Description: Designed intuitive eWallet app with balance updates, QR payments, bill payments, split bills, and recurring payments. Implemented root detection, screenshot prevention, and on-time notifications for enhanced security. Improved user experience with a simple and easy-to-use payment process.
+
+
+
  
  
  
