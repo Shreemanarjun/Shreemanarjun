@@ -98,10 +98,11 @@
 ## Repos
 
 <p float="left">
-
- 
-<a href="https://github.com/Shreemanarjun/whatsapp_clone">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shreemanarjun&repo=whatsapp_clone" />
+<a href="https://github.com/Shreemanarjun/flutter_sharez">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shreemanarjun&repo=flutter_sharez" />
+</a>
+<a href="https://github.com/Shreemanarjun/river_bricks/tree/master/bricks/riverpod_simple_architecture">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shreemanarjun&repo=river_bricks" />
 </a>
 
 </p>
