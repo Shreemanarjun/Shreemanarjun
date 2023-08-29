@@ -1,8 +1,9 @@
  
  ### Hi I'm Shreeman Arjun👋
- - 🔭 I’m currently working as Freelancer
-- 🌱 I’m currently learning Flutter 
-- 💬 Ask me about Life & Technology
+- 🚀 Flutter Enthusiast with a Passion for Building Apps
+- 🌱 Building in Flutter for 3 years and counting
+- 💬 Ask me about Life & Technology 
+
  
  ## ✍️ Languages,Frameworks ❤️
  <p float="right">
