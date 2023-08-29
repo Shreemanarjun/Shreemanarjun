@@ -32,6 +32,28 @@
 
 ## Projects 🛠️
 
+### [Flutter Sharez](https://github.com/Shreemanarjun/flutter_sharez) (Open Source) 
+- 📂 Cross-platform file-sharing app utilizing Flutter and Riverpod.
+- 📥 Enabled resumable downloads, QR code scanning, and multilingual support.
+- 🎨 Designed intuitive UI for seamless sharing and receiving of files.
+- 🚀 Collaborated with the team to troubleshoot and optimize functionality.
+
+### [Riverpod Simple Architecture Template](https://github.com/Shreemanarjun/river_bricks/tree/master/bricks/riverpod_simple_architecture) (Open Source) 
+- 🏗️ Flutter template combining Riverpod for state management, Auto Route for navigation, and Dio for API integration.
+- 🎨 Stylish UIs with velocity_x, theming with flex_color_scheme, and alerting UIs using flash.
+- 🗄️ Efficient data storage handled using Hive.
+
+### [Fitness Way](https://play.google.com/store/apps/details?id=com.refada.com)
+- 🏋️‍♂️ User-friendly Flutter app for class bookings, workout tracking, and streaks.
+- 🐞 Fixed bugs in the QR module, compressed images for reduced app size.
+
+### [Restaurant Hajj App](https://play.google.com/store/apps/details?id=com.refada.com)
+- 🍔 Developed an app to manage food quality during Hajj.
+- 💡 Created monitoring features, fixed bugs, and optimized app size.
+
+
+
+
 ### Ensemble
 - 📊 Developed a stock management app with purchase and warranty modules.
 - 🔍 QR code generator for stocks, inward entries, audit, and reports modules.
@@ -54,16 +76,6 @@
 - 🔒 Implemented root detection, screenshot prevention, and on-time notifications for enhanced security.
 - 🎯 Improved user experience with a simple and easy-to-use payment process.
 
-### Flutter Sharez (Open Source)
-- 📂 Cross-platform file-sharing app utilizing Flutter and Riverpod.
-- 📥 Enabled resumable downloads, QR code scanning, and multilingual support.
-- 🎨 Designed intuitive UI for seamless sharing and receiving of files.
-- 🚀 Collaborated with the team to troubleshoot and optimize functionality.
-
-### Riverpod Simple Architecture Template (Open Source)
-- 🏗️ Flutter template combining Riverpod for state management, Auto Route for navigation, and Dio for API integration.
-- 🎨 Stylish UIs with velocity_x, theming with flex_color_scheme, and alerting UIs using flash.
-- 🗄️ Efficient data storage handled using Hive.
 
 
  
