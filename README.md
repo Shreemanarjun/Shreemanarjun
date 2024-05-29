@@ -89,33 +89,29 @@
 
 
  
-## Status 
+## Status
 
+<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
+  <a href="">
+    <img src="https://github-readme-stats.vercel.app/api?username=shreemanarjun&show_icons=true&theme=radical" alt="Overall GitHub stats" />
+  </a>
+  <a href="">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreemanarjun&langs_count=8&hide=C++,makefile,javascript,html,css,C,c%2B%2B,swift,php,cmake,Objective-C,ruby,procfile,shell)" alt="Top Languages" />
+  </a>
+</div>
 
-<p float="left">
-<a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shreemanarjun&show_icons=true&theme=radical" />
-</a>
- &nbsp;
-  
-<a href="">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreemanarjun&langs_count=8&hide=C++,makefile,javascript,html,css,C,c%2B%2B,swift,php,cmake,Objective-C)" />
-</a>
-&nbsp;
-
-</p>
 
 ## Repos
 
-<p float="left">
-<a href="https://github.com/Shreemanarjun/flutter_sharez">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shreemanarjun&repo=flutter_sharez" />
-</a>
-<a href="https://github.com/Shreemanarjun/river_bricks/tree/master/bricks/riverpod_simple_architecture">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shreemanarjun&repo=river_bricks" />
-</a>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
+  <a href="https://github.com/Shreemanarjun/flutter_sharez">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shreemanarjun&repo=flutter_sharez" alt="flutter_sharez repo stats" />
+  </a>
+  <a href="https://github.com/Shreemanarjun/river_bricks/tree/master/bricks/riverpod_simple_architecture">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shreemanarjun&repo=river_bricks" alt="river_bricks repo stats" />
+  </a>
+</div>
 
-</p>
 
 
 ####
