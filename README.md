@@ -7,7 +7,7 @@
 ## About the Author
 
 
-[![YouTube Channel - Flutter Explorer](https://yt3.googleusercontent.com/rOk4NU_KwLER2kGeyjR3vhOei3oJ2n-WuWQ-aFqHY5j9AqlvXlE43ngHwhSoMvU1rlgtRSGWN_I=s160-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/[https://www.youtube.com/channel/UCG883fx1xOnhB-R9yzQWllg])
+[![YouTube Channel - Flutter Explorer](https://yt3.googleusercontent.com/rOk4NU_KwLER2kGeyjR3vhOei3oJ2n-WuWQ-aFqHY5j9AqlvXlE43ngHwhSoMvU1rlgtRSGWN_I=s160-c-k-c0x00ffffff-no-rj)](https://www.youtube.com//channel/UCG883fx1xOnhB-R9yzQWllg])
 
 
 
