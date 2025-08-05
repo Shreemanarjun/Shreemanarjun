@@ -6,15 +6,19 @@
 
 ## About the Author
 
+<p align="center">
+  <a href="https://www.youtube.com/@FlutterExplorer">
+    <img 
+      src="https://zmozkivkhopoeutpnnum.supabase.co/storage/v1/object/public/images//YouTube%20_%20Channel%20Cover%20(3).png"
+      alt="Flutter Explorer YouTube Banner"
+      width="100%"
+      style="max-width: 800px; border-radius: 12px;"
+    />
+  </a>
+</p>
 
-[![YouTube Channel - Flutter Explorer](https://zmozkivkhopoeutpnnum.supabase.co/storage/v1/object/public/images//yt%20watermark.png)
+📺 **🚀 Flutter Explorer:** Your gateway to mastering Flutter. Learn, create, and build stunning cross-platform apps with us.
 
-
-📺 **🚀 Flutter Explorer:**   Your gateway to mastering Flutter. Learn, create, and build stunning cross-platform apps with us.
-
-
-
- 
 ## ✍️ Languages, Frameworks ❤️
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
@@ -98,17 +102,17 @@
 
 
 
- 
 ## Status
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
-  <a href="">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 16px;">
+  <a href="" style="margin: 8px;">
     <img src="https://github-readme-stats.vercel.app/api?username=shreemanarjun&show_icons=true&theme=radical" alt="Overall GitHub stats" />
   </a>
-  <a href="">
+  <a href="" style="margin: 8px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreemanarjun&langs_count=8&hide=C++,makefile,javascript,html,css,C,c%2B%2B,swift,php,cmake,Objective-C,ruby,procfile,shell)" alt="Top Languages" />
   </a>
 </div>
+
 
 
 ## Repos
