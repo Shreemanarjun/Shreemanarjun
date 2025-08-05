@@ -7,10 +7,7 @@
 ## About the Author
 
 
-[![YouTube Channel - Flutter Explorer](https://yt3.googleusercontent.com/rOk4NU_KwLER2kGeyjR3vhOei3oJ2n-WuWQ-aFqHY5j9AqlvXlE43ngHwhSoMvU1rlgtRSGWN_I=s160-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/@flutterexplorer)
-
-
-
+[![YouTube Channel - Flutter Explorer](https://zmozkivkhopoeutpnnum.supabase.co/storage/v1/object/public/images//yt%20watermark.png)
 
 
 📺 **🚀 Flutter Explorer:**   Your gateway to mastering Flutter. Learn, create, and build stunning cross-platform apps with us.
